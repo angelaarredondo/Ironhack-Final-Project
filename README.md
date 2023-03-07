@@ -2,7 +2,7 @@
 Final Project - Data Analytics Bootcamp
 
 ## Process
-L'oreal is a global company with 4 different product lines. For this project, I focused on their Active Cosmetics line, which is made up of five different brands: Cerave, Decleor, La Roche Posay, Skinceuticals and Vichy.
+L'oreal is a global company with 4 different product lines. For this project, I focused on their Active Cosmetics line, which is made up of five different brands: Cerave, Decleor, La Roche Posay, Skinceuticals and Vichy. The main objective of this exercise is to gather valuable insights that will guide the company's strategic decision-making processes.
 
 To carry out the Sentiment Analysis, I obtained tweets from the last three years mentioning each of the brands (January 2020 - January 2023). In total, approximately 100,000 tweets were obtained via Twitter's API. 
 
